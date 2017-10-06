@@ -19,6 +19,6 @@ function iLoveTheBeatles(n){
   do {
     a[i]= "I love the Beatles!"
     i++
-  } while(n<15 && i<n)
+  } while(n<15 && i<=n)
   return a
 }
